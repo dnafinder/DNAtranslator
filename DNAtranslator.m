@@ -71,7 +71,7 @@ function ps = DNAtranslator(x)
 %     Cardillo G. (2008)
 %     "DNAtranslator: convert a DNA sequence into an amino acids sequence".
 %     Available from GitHub:
-%     https://github.com/dnafinder/dnatranslator
+%     https://github.com/dnafinder/DNAtranslator
 %
 %   Metadata
 %   --------
@@ -220,3 +220,4 @@ if nargout > 0
 end
 
 end
+
